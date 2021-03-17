@@ -1,0 +1,8 @@
+.start {
+    display: block;
+}
+
+.start:hover {
+    color: red;
+    text-decoration: none;
+}

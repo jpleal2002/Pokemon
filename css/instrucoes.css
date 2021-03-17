@@ -1,0 +1,29 @@
+h1, h3 {
+    text-align: center;
+}
+
+.container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 75%;
+}
+
+.generico {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 40%;
+    height: 40%;
+    border: none;
+    margin: 0 auto;
+}
+
+.inst {
+    color: black;
+    text-align: justify;
+    border: 3px solid black;
+    font-size: large;
+}

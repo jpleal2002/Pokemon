@@ -1,0 +1,43 @@
+body{
+    margin: 5% 35%;
+    font-size:x-large;
+}
+#content {
+    background-color: rgb(236, 201, 0);
+    border-color: black;
+    border-style: solid;
+}
+
+h1 {
+    color:rgb(255, 0, 0);
+    text-shadow: white 0px 0px 10px;
+}
+
+#imagem_1{
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    height: 50%;
+    width: auto;
+}
+#imagem_2{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    height: 30%;
+    width: auto;
+}
+
+#criar-form-submit {
+    background-color: #0066ff;
+    border: 4px solid #0066ff;
+    outline: none;
+    padding: 5px 10px;
+    color: #ffffff;
+    position: relative;
+}
+
+#criar-form-submit:hover {
+    background-color: #ffff00;
+    color: black;
+}
